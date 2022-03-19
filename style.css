@@ -80,6 +80,7 @@ nav .btn {
 
 #vaccine-txt a:hover {
   color: #00d6a3;
+  transition: 1s;
 }
 
 .color {
