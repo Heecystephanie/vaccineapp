@@ -18,6 +18,7 @@ nav .btn {
 
 .navbar-nav a:hover {
   color: #00d6a3;
+  transition: 1s;
 }
 
 .hero {
@@ -50,6 +51,7 @@ nav .btn {
 #square:hover {
   background-color: #00c897;
   color: whitesmoke;
+  transition: 1s;
 }
 
 .img-div img {
